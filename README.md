@@ -25,4 +25,5 @@ The real world is full of time series data, as almost every data collected by re
 
 In time series analysis, dynamic time warping (DTW) is one of the algorithms for measuring similarity between two temporal sequences, which may vary in speed. For instance, similarities in walking could be detected using DTW: even if two people are walking in different speed, DTW can still find out if their gait frequency and distance are similar, in other word, they are walking in the similar pattern. DTW is very useful in time series analysis as it can normalize the data in time.
 
-In this project, we explains the DTW algorithm in detail and tested its performance. For more details please refer to the paper attached.
+In this project, we explains the DTW algorithm in detail and tested its performance.  
+For more details please refer to the paper attached.
