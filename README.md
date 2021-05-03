@@ -5,21 +5,21 @@ This is the folder for DSA Spring 21 Project "Dynamic Time Warping in Time Serie
 
 ## Group members
 
-Zihao Ding,&nbsp; 
-net id: zd75,&nbsp; 
-zd75@scarletmail.rutgers.edu 
+Zihao Ding,&nbsp  
+net id: zd75,&nbsp  
+zd75@scarletmail.rutgers.edu  
 
 Hongpeng Zhang,&nbsp; 
 net id: hz227,&nbsp; 
 hz227@scarletmail.rutgers.edu  
 
 ## Files
--- DTW_code   &nbsp; (Folder contains the Code for DTW)
-&nbsp;&nbsp; &nbsp; &nbsp; |-- BasicDTW.py &nbsp; (Python code for the DTW project, in Python 3.6)&nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp;|-- Data &nbsp; (Folder contains the Data we used for DTW runtime testing)&nbsp;
--- ScreenShots &nbsp; (Folder contains the image made for presentation)
--- DTW_Presentation.pdf &nbsp; (The Presentation)
---DTW_573_Final_Project.pdf &nbsp; (The final project report)
+-- DTW_code   &nbsp; (Folder contains the Code for DTW)  
+&nbsp;&nbsp; &nbsp; &nbsp; |-- BasicDTW.py &nbsp; (Python code for the DTW project, in Python 3.6)&nbsp;  
+&nbsp; &nbsp; &nbsp; &nbsp;|-- Data &nbsp; (Folder contains the Data we used for DTW runtime testing)&nbsp;  
+-- ScreenShots &nbsp; (Folder contains the image made for presentation)  
+-- DTW_Presentation.pdf &nbsp; (The Presentation)  
+--DTW_573_Final_Project.pdf &nbsp; (The final project report)  
 
 ##  Brief description of project:
 
