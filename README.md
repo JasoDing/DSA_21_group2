@@ -5,13 +5,11 @@ This is the folder for DSA Spring 21 Project "Dynamic Time Warping in Time Serie
 
 ## Group members
 
-Zihao Ding,&nbsp  
-net id: zd75,&nbsp  
-zd75@scarletmail.rutgers.edu  
+Zihao Ding  
+net id: zd75  zd75@scarletmail.rutgers.edu  
 
-Hongpeng Zhang,&nbsp; 
-net id: hz227,&nbsp; 
-hz227@scarletmail.rutgers.edu  
+Hongpeng Zhang  
+net id: hz227   hz227@scarletmail.rutgers.edu  
 
 ## Files
 -- DTW_code   &nbsp; (Folder contains the Code for DTW)  
