@@ -27,3 +27,13 @@ In time series analysis, dynamic time warping (DTW) is one of the algorithms for
 
 In this project, we explains the DTW algorithm in detail and tested its performance.  
 For more details please refer to the paper attached.
+
+## **INSTRUCTIONS** for compile the project:
+- The BasicDTW.py was written in Python 3.6 on a win10 machine.  
+- To compile the BasicDTW.py, please first make sure you have the [**numpy**](https://pypi.org/project/numpy/) and [**pandas**](https://pypi.org/project/pandas/) library.  
+- If you would like to also get the colored DTW result matrix in the hand computable example part of the code,  [**matplotlib**](https://pypi.org/project/matplotlib/) is also required.
+- The BasicDTW.py mainly is in two parts:  
+> The first part is the general DTW function where you can select which DTW algorithm to use when calculating the DTW distance. (Basic DTW and DTW with window, more refer to paper) To run the code please refer to the ' === MAIN Function, change INPUT from here ===' tag in the code. follow the instruction there to change the input, input size, and which DTW method to use.
+
+>The second part is a simple hand computable DTW example with result visualization. To run the code, please refer to the '===DTW simple example with visualization ===' tag in the code. The compile of this part is in comment as default, if you would like to run this part, please follow the instruction in the code file to uncomment the main part in order to run the code. 
+
