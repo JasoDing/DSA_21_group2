@@ -37,3 +37,8 @@ For more details please refer to the paper attached.
 
 >The second part is a simple hand computable DTW example with result visualization. To run the code, please refer to the '===DTW simple example with visualization ===' tag in the code. The compile of this part is in comment as default, if you would like to run this part, please follow the instruction in the code file to uncomment the main part in order to run the code. 
 
+
+TLDR: 
+''' python
+python BasicDTW.py
+'''
