@@ -39,6 +39,6 @@ For more details please refer to the paper attached.
 
 
 TLDR: 
-''' python
-python BasicDTW.py
-'''
+```
+$ python BasicDTW.py
+```
