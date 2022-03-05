@@ -1,5 +1,6 @@
-#  DSA_21_group2
-## **Dynamic Time Warping in Time Series Analysis**
+#  **Dynamic Time Warping in Time Series Analysis**
+
+## DSA_21_group2
 
 This is the folder for DSA Spring 21 Project "Dynamic Time Warping in Time Series Analysis" 
 
